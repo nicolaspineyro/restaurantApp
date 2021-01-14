@@ -1,0 +1,11 @@
+export const GET_PRODUCTS_SUCCESS = 'GET_PRODUCTS_SUCCESS';
+
+export const SELECT_PRODUCT = 'SELECT_PRODUCT';
+
+export const CONFIRM_ORDER = 'CONFIRM_ORDER';
+
+export const SHOW_RESUME = 'SHOW_RESUME';
+
+export const DELETE_ITEM = 'DELETE_ITEM';
+
+export const ORDER_ID = 'ORDER_ID';
